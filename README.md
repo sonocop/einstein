@@ -1,4 +1,4 @@
-<header>
+ <header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -8,6 +8,7 @@
 -->
 
 # Communicate using Markdown
+# Explanation
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -73,9 +74,22 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
-
+ 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+# Markdown Practice
+So am hoping that this will help me get comfortable with programming languages.
+## Hello World
+This is the standard and the first step in learning to write languages in code.
+### Love conquers all
+That is very true. Lets just get along!
+#### One World, One love
+Bob Marley my guy kept it real!
+##### Grateful for my family
+And my cat Luna. She is very cute
 </footer>
+<!--
+<<< Author notes: Header practice >>>
+I have practised writing a heading and organizing ideas and collaborating using Markdown, a lightweight language for text formatting.
+-->
